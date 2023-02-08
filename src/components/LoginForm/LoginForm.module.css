@@ -1,0 +1,14 @@
+.centerScreen {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.submitButton{
+  margin: 5px;
+  width: 100px;
+  height: 25px;
+}
