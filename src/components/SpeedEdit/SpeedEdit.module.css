@@ -1,0 +1,10 @@
+.speedEditContainer {
+  position: relative;
+}
+
+.speedEditInput {
+  position: absolute;
+  text-align: right;
+  width: 30px;
+  color: #41cb71;
+}
